@@ -48,5 +48,55 @@
     "son": 10.28,
     "partial": false,
     "paper": false
+  },
+  {
+    "hisse": "TUPRS",
+    "alis": 402.75,
+    "hedef": 455.29,
+    "stop": 373.56,
+    "tarih": "2026-09-01",
+    "son": 402.75,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "CANTE",
+    "alis": 1.3,
+    "hedef": 1.42,
+    "stop": 1.23,
+    "tarih": "2026-09-01",
+    "son": 1.3,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "SASA",
+    "alis": 2.36,
+    "hedef": 2.7,
+    "stop": 2.17,
+    "tarih": "2026-09-01",
+    "son": 2.36,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "TATGD",
+    "alis": 17.79,
+    "hedef": 20.34,
+    "stop": 16.37,
+    "tarih": "2026-09-01",
+    "son": 17.79,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "ODAS",
+    "alis": 7.47,
+    "hedef": 8.54,
+    "stop": 6.88,
+    "tarih": "2026-09-01",
+    "son": 7.47,
+    "partial": false,
+    "paper": false
   }
 ]
