@@ -1,8 +1,7 @@
-# BIST Bot Konfigürasyonu v23
+# BIST Bot Konfigürasyonu v24
 
 telegram:
-  chat_id: "6843244280"   # Kendi chat_id'nizi yazın
-  # Token GitHub Secrets'tan gelir: TELEGRAM_TOKEN
+  chat_id: "6843244280"
 
 hisseler:
   - AKBNK
@@ -131,7 +130,6 @@ sektorler:
   PERAKENDE: [BIMAS, MGROS, SOKM, MAVI, TKNSA, ULKER, TATGD]
   GYO: [EKGYO, HLGYO, TRGYO, ASGYO]
 
-# Risk parametreleri
 risk:
   max_pozisyon: 5
   max_sektor: 2
@@ -146,16 +144,16 @@ risk:
   min_rec: -0.5
   rsi_ust_limit: 75
   min_tahmin: 0.0
-  # Yeni
-  max_correlation: 0.75          # Yüksek korelasyonlu hisseleri ele
+  max_correlation: 0.75
   trailing_aktif: true
-  trailing_aktivasyon_pct: 0.04  # %4 kârda trailing başlar
-  trailing_mesafe_pct: 0.025     # Trailing stop mesafesi
+  trailing_aktivasyon_pct: 0.04
+  trailing_mesafe_pct: 0.025
   partial_tp_aktif: true
-  partial_tp_pct: 0.06           # %6 kârda yarısını sat
-  partial_tp_oran: 0.5           # Pozisyonun yarısı
+  partial_tp_pct: 0.06
+  partial_tp_oran: 0.5
+  paper_baslangic_kasa: 100000
+  atr_pozisyon_aktif: true
 
-# Model
 model:
   n_estimators: 150
   max_depth: 4
@@ -163,16 +161,15 @@ model:
   min_train_rows: 120
   prediction_horizon: 5
 
-# Veri
 data:
-  yfinance_guncelle: true        # Akşam koşusunda yf ile OHLCV zenginleştir
-  yfinance_max_hisse: 40         # Her seferde max kaç hisse çekilsin
+  yfinance_guncelle: true
+  yfinance_max_hisse: 35
   yfinance_period: "1y"
 
-# Dosya yolları
 files:
   hafiza: gecmis_v15.json
   plan: plan.json
   csv: bist_history.csv
-  trades: trades_history.json    # Kapalı işlem geçmişi
+  trades: trades_history.json
+  paper: paper_portfolio.json
   log: bot.log
