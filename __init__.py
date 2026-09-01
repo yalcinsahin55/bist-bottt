@@ -1,1 +1,0 @@
-# BIST Bot package
