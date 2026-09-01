@@ -1,1 +1,86 @@
-{}
+{
+  "tarih": "2026-09-01",
+  "top": [
+    {
+      "hisse": "HALKB",
+      "fiyat": 40.88,
+      "tahmin": 19.3980706760763,
+      "rsi": 41.27493054560641,
+      "atr": 1.2449520223759447,
+      "stop": 38.39,
+      "hedef": 45.36,
+      "sektor": "BANKA",
+      "motor": "LGBM",
+      "relvol": 2.00759160679773,
+      "rec": null,
+      "mcap": 303053931148,
+      "haber": 4,
+      "baslik": "Borsada al sinyali veren 12 hisse: HALKB listeye girdi"
+    },
+    {
+      "hisse": "BUCIM",
+      "fiyat": 5.89,
+      "tahmin": 6.9345145691111,
+      "rsi": 59.36888420239609,
+      "atr": 0.14749665807184417,
+      "stop": 5.6,
+      "hedef": 6.42,
+      "sektor": "SANAYI",
+      "motor": "LGBM",
+      "relvol": 2.0480886684409825,
+      "rec": null,
+      "mcap": 8531767223.999999,
+      "haber": 1,
+      "baslik": "BURSA CIMENTO (BUCIM) Hisse Senedi"
+    },
+    {
+      "hisse": "AHGAZ",
+      "fiyat": 38.5,
+      "tahmin": 6.823084706335315,
+      "rsi": 59.09722412069268,
+      "atr": 1.2417878993714369,
+      "stop": 36.02,
+      "hedef": 42.97,
+      "sektor": "DIGER",
+      "motor": "LGBM",
+      "relvol": 1.168546275050797,
+      "rec": null,
+      "mcap": 98747998810,
+      "haber": 1,
+      "baslik": "KAP *** AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. *** AHGAZ ***"
+    },
+    {
+      "hisse": "SKBNK",
+      "fiyat": 6.32,
+      "tahmin": 5.789575555911519,
+      "rsi": 25.941872936791512,
+      "atr": 0.48311396612104174,
+      "stop": 5.81,
+      "hedef": 7.23,
+      "sektor": "BANKA",
+      "motor": "LGBM",
+      "relvol": 0.7431999242320192,
+      "rec": null,
+      "mcap": 15599999428,
+      "haber": 0,
+      "baslik": ""
+    },
+    {
+      "hisse": "KARSN",
+      "fiyat": 10.28,
+      "tahmin": 4.612749658650001,
+      "rsi": 30.099293138296247,
+      "atr": 0.3235559619433252,
+      "stop": 9.63,
+      "hedef": 11.44,
+      "sektor": "SANAYI",
+      "motor": "LGBM",
+      "relvol": 2.5263410263172137,
+      "rec": null,
+      "mcap": 8892000103,
+      "haber": 0,
+      "baslik": ""
+    }
+  ],
+  "firtina": false
+}

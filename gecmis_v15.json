@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "hisse": "HALKB",
+    "alis": 40.88,
+    "hedef": 45.36,
+    "stop": 38.39,
+    "tarih": "2026-09-01",
+    "son": 40.88,
+    "partial": false
+  },
+  {
+    "hisse": "BUCIM",
+    "alis": 5.89,
+    "hedef": 6.42,
+    "stop": 5.6,
+    "tarih": "2026-09-01",
+    "son": 5.89,
+    "partial": false
+  },
+  {
+    "hisse": "AHGAZ",
+    "alis": 38.5,
+    "hedef": 42.97,
+    "stop": 36.02,
+    "tarih": "2026-09-01",
+    "son": 38.5,
+    "partial": false
+  },
+  {
+    "hisse": "SKBNK",
+    "alis": 6.32,
+    "hedef": 7.23,
+    "stop": 5.81,
+    "tarih": "2026-09-01",
+    "son": 6.32,
+    "partial": false
+  },
+  {
+    "hisse": "KARSN",
+    "alis": 10.28,
+    "hedef": 11.44,
+    "stop": 9.63,
+    "tarih": "2026-09-01",
+    "son": 10.28,
+    "partial": false
+  }
+]
