@@ -1,0 +1,178 @@
+# BIST Bot Konfigürasyonu v23
+
+telegram:
+  chat_id: "6843244280"   # Kendi chat_id'nizi yazın
+  # Token GitHub Secrets'tan gelir: TELEGRAM_TOKEN
+
+hisseler:
+  - AKBNK
+  - AKCNS
+  - AKFYE
+  - AKSEN
+  - ALARK
+  - ALFAS
+  - ARCLK
+  - ASELS
+  - ASTOR
+  - AYDEM
+  - AYGAZ
+  - BAGFS
+  - BERA
+  - BIOEN
+  - BIMAS
+  - BLCYT
+  - BRSAN
+  - BRISA
+  - BSOKE
+  - BTCIM
+  - BUCIM
+  - CANTE
+  - CCOLA
+  - CELHA
+  - CIMSA
+  - CWENE
+  - DOAS
+  - ECILC
+  - EGEEN
+  - EKGYO
+  - ENKAI
+  - EREGL
+  - ESEN
+  - FROTO
+  - GARAN
+  - GENIL
+  - GESAN
+  - GLYHO
+  - GSDHO
+  - GSRAY
+  - GUBRF
+  - GWIND
+  - HALKB
+  - HEKTS
+  - HLGYO
+  - INDES
+  - ISCTR
+  - ISMEN
+  - IZMDC
+  - KARSN
+  - KCHOL
+  - KONTR
+  - KONYA
+  - KORDS
+  - KOZAA
+  - KOZAL
+  - KRDMD
+  - LMKDC
+  - LOGO
+  - MAVI
+  - MGROS
+  - MIATK
+  - MPARK
+  - NATEN
+  - NTHOL
+  - ODAS
+  - OTKAR
+  - OYYAT
+  - PARSN
+  - PETKM
+  - PGSUS
+  - PNLSN
+  - PRKME
+  - QUAGR
+  - RALYH
+  - SAHOL
+  - SASA
+  - SDTTR
+  - SISE
+  - SKBNK
+  - SMART
+  - SOKM
+  - SOKE
+  - TATEN
+  - TAVHL
+  - TATGD
+  - TCELL
+  - THYAO
+  - TKFEN
+  - TKNSA
+  - TMSN
+  - TOASO
+  - TSPOR
+  - TSKB
+  - TTKOM
+  - TUPRS
+  - TURSG
+  - ULKER
+  - VAKBN
+  - VESTL
+  - YKBNK
+  - YATAS
+  - ZOREN
+  - AGHOL
+  - AHGAZ
+  - ALBRK
+  - ANHYT
+  - ASGYO
+  - DAPGM
+  - EFORC
+  - IPEKE
+  - KLNMA
+  - PENTA
+  - TEZOL
+  - TRGYO
+  - VERUS
+
+sektorler:
+  BANKA: [AKBNK, GARAN, ISCTR, YKBNK, VAKBN, HALKB, SKBNK, TSKB, ALBRK]
+  ENERJI: [AKSEN, AYDEM, GWIND, ZOREN, ODAS, AKFYE, BIOEN, CANTE, TATEN, AYGAZ, EFORC]
+  SANAYI: [FROTO, TOASO, OTKAR, TMSN, KARSN, PARSN, BRSAN, CELHA, IZMDC, KRDMD, EREGL, BUCIM, BSOKE, BTCIM, CIMSA, AKCNS, KONYA, LMKDC, SOKE]
+  TEKNOLOJI: [ASELS, MIATK, LOGO, GESAN, CWENE, ASTOR, KONTR, SDTTR, SMART, INDES, PENTA]
+  HAVACILIK: [THYAO, PGSUS, TAVHL, DOAS]
+  PERAKENDE: [BIMAS, MGROS, SOKM, MAVI, TKNSA, ULKER, TATGD]
+  GYO: [EKGYO, HLGYO, TRGYO, ASGYO]
+
+# Risk parametreleri
+risk:
+  max_pozisyon: 5
+  max_sektor: 2
+  max_kasa_yuzde: 0.20
+  firtina_max_pozisyon: 2
+  stop_atr_carpan: 2.0
+  stop_min_pct: 0.03
+  stop_max_pct: 0.08
+  hedef_risk_odul: 1.8
+  max_tutma_gun: 10
+  min_mcap: 2000000000
+  min_rec: -0.5
+  rsi_ust_limit: 75
+  min_tahmin: 0.0
+  # Yeni
+  max_correlation: 0.75          # Yüksek korelasyonlu hisseleri ele
+  trailing_aktif: true
+  trailing_aktivasyon_pct: 0.04  # %4 kârda trailing başlar
+  trailing_mesafe_pct: 0.025     # Trailing stop mesafesi
+  partial_tp_aktif: true
+  partial_tp_pct: 0.06           # %6 kârda yarısını sat
+  partial_tp_oran: 0.5           # Pozisyonun yarısı
+
+# Model
+model:
+  n_estimators: 150
+  max_depth: 4
+  learning_rate: 0.05
+  min_train_rows: 120
+  prediction_horizon: 5
+
+# Veri
+data:
+  yfinance_guncelle: true        # Akşam koşusunda yf ile OHLCV zenginleştir
+  yfinance_max_hisse: 40         # Her seferde max kaç hisse çekilsin
+  yfinance_period: "1y"
+
+# Dosya yolları
+files:
+  hafiza: gecmis_v15.json
+  plan: plan.json
+  csv: bist_history.csv
+  trades: trades_history.json    # Kapalı işlem geçmişi
+  log: bot.log
