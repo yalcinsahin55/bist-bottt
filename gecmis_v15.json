@@ -1,1 +1,175 @@
-[{"hisse": "BUCIM", "alis": 5.79, "hedef": 6.17, "stop": 5.54, "tarih": "2026-08-29", "son": 5.89}, {"hisse": "YKBNK", "alis": 37.22, "hedef": 40.74, "stop": 34.88, "tarih": "2026-08-29", "son": 36.82}, {"hisse": "TKFEN", "alis": 221, "hedef": 247.52, "stop": 203.32, "tarih": "2026-08-31", "son": 214.3}, {"hisse": "EKGYO", "alis": 20.62, "hedef": 22.37, "stop": 19.45, "tarih": "2026-08-31", "son": 19.75}, {"hisse": "HLGYO", "alis": 4.45, "hedef": 4.87, "stop": 4.17, "tarih": "2026-08-31", "son": 4.37}, {"hisse": "AHGAZ", "alis": 38, "hedef": 41.6, "stop": 35.6, "tarih": "2026-08-31", "son": 38.5}, {"hisse": "OTKAR", "alis": 331.75, "hedef": 369.99, "stop": 306.26, "tarih": "2026-08-31", "son": 321}, {"hisse": "HALKB", "alis": 42.18, "hedef": 45.69, "stop": 39.84, "tarih": "2026-08-31", "son": 40.88}, {"hisse": "CWENE", "alis": 37.5, "hedef": 42.0, "stop": 34.5, "tarih": "2026-08-31", "son": 34.52}, {"hisse": "SOKM", "alis": 55.4, "hedef": 62.05, "stop": 50.97, "tarih": "2026-08-31", "son": 56.55}, {"hisse": "ENKAI", "alis": 87.4, "hedef": 94.69, "stop": 82.54, "tarih": "2026-08-31", "son": 88.9}, {"hisse": "IZMDC", "alis": 11.37, "hedef": 12.73, "stop": 10.46, "tarih": "2026-09-01", "son": 11.37}, {"hisse": "BERA", "alis": 13.58, "hedef": 15.09, "stop": 12.57, "tarih": "2026-09-01", "son": 13.58}, {"hisse": "PENTA", "alis": 13.01, "hedef": 14.03, "stop": 12.33, "tarih": "2026-09-01", "son": 13.01}, {"hisse": "SASA", "alis": 2.36, "hedef": 2.64, "stop": 2.17, "tarih": "2026-09-01", "son": 2.36}, {"hisse": "VAKBN", "alis": 32.56, "hedef": 35.37, "stop": 30.69, "tarih": "2026-09-01", "son": 32.56}]
+[
+  {
+    "hisse": "BUCIM",
+    "alis": 5.79,
+    "hedef": 6.17,
+    "stop": 5.54,
+    "tarih": "2026-08-29",
+    "son": 5.89
+  },
+  {
+    "hisse": "YKBNK",
+    "alis": 37.22,
+    "hedef": 40.74,
+    "stop": 34.88,
+    "tarih": "2026-08-29",
+    "son": 36.82
+  },
+  {
+    "hisse": "TKFEN",
+    "alis": 221,
+    "hedef": 247.52,
+    "stop": 203.32,
+    "tarih": "2026-08-31",
+    "son": 214.3
+  },
+  {
+    "hisse": "EKGYO",
+    "alis": 20.62,
+    "hedef": 22.37,
+    "stop": 19.45,
+    "tarih": "2026-08-31",
+    "son": 19.75
+  },
+  {
+    "hisse": "HLGYO",
+    "alis": 4.45,
+    "hedef": 4.87,
+    "stop": 4.17,
+    "tarih": "2026-08-31",
+    "son": 4.37
+  },
+  {
+    "hisse": "AHGAZ",
+    "alis": 38,
+    "hedef": 41.6,
+    "stop": 35.6,
+    "tarih": "2026-08-31",
+    "son": 38.5
+  },
+  {
+    "hisse": "OTKAR",
+    "alis": 331.75,
+    "hedef": 369.99,
+    "stop": 306.26,
+    "tarih": "2026-08-31",
+    "son": 321
+  },
+  {
+    "hisse": "HALKB",
+    "alis": 42.18,
+    "hedef": 45.69,
+    "stop": 39.84,
+    "tarih": "2026-08-31",
+    "son": 40.88
+  },
+  {
+    "hisse": "CWENE",
+    "alis": 37.5,
+    "hedef": 42.0,
+    "stop": 34.5,
+    "tarih": "2026-08-31",
+    "son": 34.52
+  },
+  {
+    "hisse": "SOKM",
+    "alis": 55.4,
+    "hedef": 62.05,
+    "stop": 50.97,
+    "tarih": "2026-08-31",
+    "son": 56.55
+  },
+  {
+    "hisse": "ENKAI",
+    "alis": 87.4,
+    "hedef": 94.69,
+    "stop": 82.54,
+    "tarih": "2026-08-31",
+    "son": 88.9
+  },
+  {
+    "hisse": "IZMDC",
+    "alis": 11.37,
+    "hedef": 12.73,
+    "stop": 10.46,
+    "tarih": "2026-09-01",
+    "son": 11.37
+  },
+  {
+    "hisse": "BERA",
+    "alis": 13.58,
+    "hedef": 15.09,
+    "stop": 12.57,
+    "tarih": "2026-09-01",
+    "son": 13.58
+  },
+  {
+    "hisse": "PENTA",
+    "alis": 13.01,
+    "hedef": 14.03,
+    "stop": 12.33,
+    "tarih": "2026-09-01",
+    "son": 13.01
+  },
+  {
+    "hisse": "SASA",
+    "alis": 2.36,
+    "hedef": 2.64,
+    "stop": 2.17,
+    "tarih": "2026-09-01",
+    "son": 2.36
+  },
+  {
+    "hisse": "VAKBN",
+    "alis": 32.56,
+    "hedef": 35.37,
+    "stop": 30.69,
+    "tarih": "2026-09-01",
+    "son": 32.56
+  },
+  {
+    "hisse": "SKBNK",
+    "alis": 6.32,
+    "hedef": 7.23,
+    "stop": 5.81,
+    "tarih": "2026-09-01",
+    "son": 6.32,
+    "partial": false
+  },
+  {
+    "hisse": "KARSN",
+    "alis": 10.28,
+    "hedef": 11.44,
+    "stop": 9.63,
+    "tarih": "2026-09-01",
+    "son": 10.28,
+    "partial": false
+  },
+  {
+    "hisse": "TUPRS",
+    "alis": 402.75,
+    "hedef": 455.29,
+    "stop": 373.56,
+    "tarih": "2026-09-01",
+    "son": 402.75,
+    "partial": false
+  },
+  {
+    "hisse": "CANTE",
+    "alis": 1.3,
+    "hedef": 1.42,
+    "stop": 1.23,
+    "tarih": "2026-09-01",
+    "son": 1.3,
+    "partial": false
+  },
+  {
+    "hisse": "TATGD",
+    "alis": 17.79,
+    "hedef": 20.34,
+    "stop": 16.37,
+    "tarih": "2026-09-01",
+    "son": 17.79,
+    "partial": false
+  }
+]
