@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "hisse": "HALKB",
+    "alis": 40.88,
+    "satis": 49.44,
+    "getiri_pct": 20.94,
+    "gun": 2,
+    "neden": "HEDEF",
+    "alis_tarih": "2026-09-01",
+    "satis_tarih": "2026-09-03",
+    "stop": 48.2,
+    "hedef": 45.36,
+    "partial": true,
+    "paper": false
+  },
+  {
+    "hisse": "KARSN",
+    "alis": 10.28,
+    "satis": 12.43,
+    "getiri_pct": 20.91,
+    "gun": 2,
+    "neden": "HEDEF",
+    "alis_tarih": "2026-09-01",
+    "satis_tarih": "2026-09-03",
+    "stop": 12.12,
+    "hedef": 11.44,
+    "partial": true,
+    "paper": false
+  }
+]
