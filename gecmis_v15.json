@@ -5,7 +5,7 @@
     "hedef": 6.42,
     "stop": 5.6,
     "tarih": "2026-09-01",
-    "son": 5.77,
+    "son": 5.7,
     "partial": false,
     "paper": false
   },
@@ -15,7 +15,7 @@
     "hedef": 42.97,
     "stop": 36.02,
     "tarih": "2026-09-01",
-    "son": 38.84,
+    "son": 39.7,
     "partial": false,
     "paper": false
   },
@@ -25,7 +25,7 @@
     "hedef": 7.23,
     "stop": 5.81,
     "tarih": "2026-09-01",
-    "son": 6.29,
+    "son": 6.24,
     "partial": false,
     "paper": false
   },
@@ -35,7 +35,7 @@
     "hedef": 455.29,
     "stop": 373.56,
     "tarih": "2026-09-01",
-    "son": 391,
+    "son": 388.5,
     "partial": false,
     "paper": false
   },
@@ -45,7 +45,7 @@
     "hedef": 1.42,
     "stop": 1.23,
     "tarih": "2026-09-01",
-    "son": 1.34,
+    "son": 1.33,
     "partial": false,
     "paper": false
   },
@@ -55,7 +55,7 @@
     "hedef": 2.7,
     "stop": 2.17,
     "tarih": "2026-09-01",
-    "son": 2.23,
+    "son": 2.29,
     "partial": false,
     "paper": false
   },
@@ -65,7 +65,7 @@
     "hedef": 20.34,
     "stop": 16.37,
     "tarih": "2026-09-01",
-    "son": 17.14,
+    "son": 17.51,
     "partial": false,
     "paper": false
   },
@@ -75,7 +75,7 @@
     "hedef": 8.54,
     "stop": 6.88,
     "tarih": "2026-09-01",
-    "son": 7.28,
+    "son": 7.24,
     "partial": false,
     "paper": false
   },
@@ -85,7 +85,7 @@
     "hedef": 6.62,
     "stop": 5.75,
     "tarih": "2026-09-02",
-    "son": 6,
+    "son": 6.08,
     "partial": false,
     "paper": false
   },
@@ -95,7 +95,7 @@
     "hedef": 38.14,
     "stop": 30.67,
     "tarih": "2026-09-02",
-    "son": 30.78,
+    "son": 31.24,
     "partial": false,
     "paper": false
   },
@@ -105,7 +105,7 @@
     "hedef": 13.97,
     "stop": 12.12,
     "tarih": "2026-09-02",
-    "son": 12.95,
+    "son": 13.01,
     "partial": false,
     "paper": false
   },
@@ -115,7 +115,7 @@
     "hedef": 14.53,
     "stop": 12.54,
     "tarih": "2026-09-02",
-    "son": 12.94,
+    "son": 12.9,
     "partial": false,
     "paper": false
   },
@@ -125,7 +125,7 @@
     "hedef": 161.13,
     "stop": 142.26,
     "tarih": "2026-09-02",
-    "son": 148.2,
+    "son": 148.7,
     "partial": false,
     "paper": false
   },
@@ -133,10 +133,10 @@
     "hisse": "HALKB",
     "alis": 49.44,
     "hedef": 54.99,
-    "stop": 46.35,
+    "stop": 52.99,
     "tarih": "2026-09-03",
-    "son": 49.44,
-    "partial": false,
+    "son": 54.35,
+    "partial": true,
     "paper": false
   },
   {
@@ -145,7 +145,7 @@
     "hedef": 13.66,
     "stop": 11.75,
     "tarih": "2026-09-03",
-    "son": 12.43,
+    "son": 12.68,
     "partial": false,
     "paper": false
   },
@@ -153,10 +153,10 @@
     "hisse": "VESTL",
     "alis": 24.06,
     "hedef": 27.3,
-    "stop": 22.26,
+    "stop": 25.8,
     "tarih": "2026-09-03",
-    "son": 24.06,
-    "partial": false,
+    "son": 26.46,
+    "partial": true,
     "paper": false
   },
   {
@@ -165,7 +165,7 @@
     "hedef": 37.3,
     "stop": 31.76,
     "tarih": "2026-09-03",
-    "son": 33.74,
+    "son": 33.62,
     "partial": false,
     "paper": false
   },
@@ -175,7 +175,57 @@
     "hedef": 38.5,
     "stop": 33.71,
     "tarih": "2026-09-03",
-    "son": 35.42,
+    "son": 34.5,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "AGHOL",
+    "alis": 32.88,
+    "hedef": 36.38,
+    "stop": 30.94,
+    "tarih": "2026-09-04",
+    "son": 32.88,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "KLNMA",
+    "alis": 8.85,
+    "hedef": 9.4,
+    "stop": 8.54,
+    "tarih": "2026-09-04",
+    "son": 8.85,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "ZOREN",
+    "alis": 2.35,
+    "hedef": 2.55,
+    "stop": 2.24,
+    "tarih": "2026-09-04",
+    "son": 2.35,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "FROTO",
+    "alis": 77.2,
+    "hedef": 83.89,
+    "stop": 73.48,
+    "tarih": "2026-09-04",
+    "son": 77.2,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "GARAN",
+    "alis": 131.4,
+    "hedef": 143.43,
+    "stop": 124.72,
+    "tarih": "2026-09-04",
+    "son": 131.4,
     "partial": false,
     "paper": false
   }
