@@ -26,5 +26,33 @@
     "hedef": 11.44,
     "partial": true,
     "paper": false
+  },
+  {
+    "hisse": "HALKB",
+    "alis": 49.44,
+    "satis": 49.92,
+    "getiri_pct": 0.97,
+    "gun": 4,
+    "neden": "TRAILING_STOP",
+    "alis_tarih": "2026-09-03",
+    "satis_tarih": "2026-09-07",
+    "stop": 52.99,
+    "hedef": 54.99,
+    "partial": true,
+    "paper": false
+  },
+  {
+    "hisse": "KARSN",
+    "alis": 12.43,
+    "satis": 13.94,
+    "getiri_pct": 12.15,
+    "gun": 4,
+    "neden": "HEDEF",
+    "alis_tarih": "2026-09-03",
+    "satis_tarih": "2026-09-07",
+    "stop": 13.59,
+    "hedef": 13.66,
+    "partial": true,
+    "paper": false
   }
 ]
