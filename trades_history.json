@@ -82,5 +82,61 @@
     "hedef": 13.97,
     "partial": true,
     "paper": false
+  },
+  {
+    "hisse": "SKBNK",
+    "alis": 6.32,
+    "satis": 6.38,
+    "getiri_pct": 0.95,
+    "gun": 8,
+    "neden": "TRAILING_STOP",
+    "alis_tarih": "2026-09-01",
+    "satis_tarih": "2026-09-09",
+    "stop": 6.61,
+    "hedef": 7.23,
+    "partial": true,
+    "paper": false
+  },
+  {
+    "hisse": "VAKBN",
+    "alis": 33.74,
+    "satis": 35.52,
+    "getiri_pct": 5.28,
+    "gun": 6,
+    "neden": "TRAILING_STOP",
+    "alis_tarih": "2026-09-03",
+    "satis_tarih": "2026-09-09",
+    "stop": 35.72,
+    "hedef": 37.3,
+    "partial": true,
+    "paper": false
+  },
+  {
+    "hisse": "FROTO",
+    "alis": 77.2,
+    "satis": 83.95,
+    "getiri_pct": 8.74,
+    "gun": 5,
+    "neden": "HEDEF",
+    "alis_tarih": "2026-09-04",
+    "satis_tarih": "2026-09-09",
+    "stop": 81.85,
+    "hedef": 83.89,
+    "partial": true,
+    "paper": false
+  },
+  {
+    "hisse": "KARSN",
+    "alis": 13.94,
+    "satis": 15.56,
+    "getiri_pct": 11.62,
+    "gun": 2,
+    "neden": "HEDEF",
+    "alis_tarih": "2026-09-07",
+    "satis_tarih": "2026-09-09",
+    "stop": 15.17,
+    "hedef": 15.17,
+    "partial": true,
+    "paper": false
   }
 ]
