@@ -1,71 +1,11 @@
 [
   {
-    "hisse": "TURSG",
-    "alis": 6.06,
-    "hedef": 6.62,
-    "stop": 5.75,
-    "tarih": "2026-09-02",
-    "son": 6.18,
-    "partial": false,
-    "paper": false
-  },
-  {
-    "hisse": "PENTA",
-    "alis": 13.25,
-    "hedef": 14.53,
-    "stop": 12.54,
-    "tarih": "2026-09-02",
-    "son": 13.06,
-    "partial": false,
-    "paper": false
-  },
-  {
-    "hisse": "PGSUS",
-    "alis": 149,
-    "hedef": 161.13,
-    "stop": 151.61,
-    "tarih": "2026-09-02",
-    "son": 154.2,
-    "partial": false,
-    "paper": false
-  },
-  {
-    "hisse": "KLNMA",
-    "alis": 8.85,
-    "hedef": 9.4,
-    "stop": 8.54,
-    "tarih": "2026-09-04",
-    "son": 8.89,
-    "partial": false,
-    "paper": false
-  },
-  {
-    "hisse": "ZOREN",
-    "alis": 2.35,
-    "hedef": 2.55,
-    "stop": 2.46,
-    "tarih": "2026-09-04",
-    "son": 2.47,
-    "partial": true,
-    "paper": false
-  },
-  {
-    "hisse": "GARAN",
-    "alis": 131.4,
-    "hedef": 143.43,
-    "stop": 124.72,
-    "tarih": "2026-09-04",
-    "son": 134.2,
-    "partial": false,
-    "paper": false
-  },
-  {
     "hisse": "BERA",
     "alis": 13.87,
     "hedef": 15.39,
     "stop": 13.03,
     "tarih": "2026-09-07",
-    "son": 13.95,
+    "son": 13.81,
     "partial": false,
     "paper": false
   },
@@ -75,7 +15,7 @@
     "hedef": 88.42,
     "stop": 74.47,
     "tarih": "2026-09-07",
-    "son": 80.2,
+    "son": 79.65,
     "partial": false,
     "paper": false
   },
@@ -85,7 +25,7 @@
     "hedef": 5.04,
     "stop": 4.29,
     "tarih": "2026-09-07",
-    "son": 4.48,
+    "son": 4.4,
     "partial": false,
     "paper": false
   },
@@ -95,7 +35,7 @@
     "hedef": 2.57,
     "stop": 2.07,
     "tarih": "2026-09-08",
-    "son": 2.11,
+    "son": 2.09,
     "partial": false,
     "paper": false
   },
@@ -105,7 +45,7 @@
     "hedef": 81.87,
     "stop": 71.1,
     "tarih": "2026-09-08",
-    "son": 72.7,
+    "son": 72.35,
     "partial": false,
     "paper": false
   },
@@ -115,7 +55,7 @@
     "hedef": 50.38,
     "stop": 43.47,
     "tarih": "2026-09-08",
-    "son": 45.66,
+    "son": 45.38,
     "partial": false,
     "paper": false
   },
@@ -125,7 +65,7 @@
     "hedef": 41.9,
     "stop": 34.46,
     "tarih": "2026-09-08",
-    "son": 37.4,
+    "son": 36.8,
     "partial": false,
     "paper": false
   },
@@ -135,7 +75,7 @@
     "hedef": 56.93,
     "stop": 46.46,
     "tarih": "2026-09-09",
-    "son": 50,
+    "son": 47.56,
     "partial": false,
     "paper": false
   },
@@ -145,7 +85,7 @@
     "hedef": 3.17,
     "stop": 2.69,
     "tarih": "2026-09-09",
-    "son": 2.84,
+    "son": 2.81,
     "partial": false,
     "paper": false
   },
@@ -155,7 +95,7 @@
     "hedef": 14.97,
     "stop": 13.33,
     "tarih": "2026-09-09",
-    "son": 13.93,
+    "son": 13.91,
     "partial": false,
     "paper": false
   },
@@ -165,7 +105,7 @@
     "hedef": 90.06,
     "stop": 80.56,
     "tarih": "2026-09-09",
-    "son": 82.85,
+    "son": 83.05,
     "partial": false,
     "paper": false
   },
@@ -175,7 +115,7 @@
     "hedef": 3.07,
     "stop": 2.6,
     "tarih": "2026-09-10",
-    "son": 2.82,
+    "son": 2.81,
     "partial": false,
     "paper": false
   },
@@ -185,7 +125,7 @@
     "hedef": 27.18,
     "stop": 23.76,
     "tarih": "2026-09-10",
-    "son": 24.68,
+    "son": 24.1,
     "partial": false,
     "paper": false
   },
@@ -195,7 +135,7 @@
     "hedef": 318.96,
     "stop": 275.08,
     "tarih": "2026-09-10",
-    "son": 299.75,
+    "son": 293,
     "partial": false,
     "paper": false
   },
@@ -205,7 +145,7 @@
     "hedef": 42.97,
     "stop": 36.77,
     "tarih": "2026-09-10",
-    "son": 39.4,
+    "son": 39.18,
     "partial": false,
     "paper": false
   },
@@ -215,7 +155,7 @@
     "hedef": 23.07,
     "stop": 19.54,
     "tarih": "2026-09-10",
-    "son": 20.92,
+    "son": 20.8,
     "partial": false,
     "paper": false
   },
@@ -223,9 +163,9 @@
     "hisse": "EGEEN",
     "alis": 6027.5,
     "hedef": 6498.33,
-    "stop": 5765.93,
+    "stop": 6162.0,
     "tarih": "2026-09-11",
-    "son": 6027.5,
+    "son": 6320,
     "partial": false,
     "paper": false
   },
@@ -235,7 +175,7 @@
     "hedef": 48.21,
     "stop": 43.19,
     "tarih": "2026-09-11",
-    "son": 44.98,
+    "son": 44.18,
     "partial": false,
     "paper": false
   },
@@ -245,7 +185,7 @@
     "hedef": 28.11,
     "stop": 23.93,
     "tarih": "2026-09-11",
-    "son": 25.42,
+    "son": 24.82,
     "partial": false,
     "paper": false
   },
@@ -255,7 +195,7 @@
     "hedef": 25.4,
     "stop": 20.98,
     "tarih": "2026-09-11",
-    "son": 22.56,
+    "son": 22.32,
     "partial": false,
     "paper": false
   },
@@ -265,7 +205,57 @@
     "hedef": 51.52,
     "stop": 42.93,
     "tarih": "2026-09-11",
-    "son": 46,
+    "son": 45.68,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "KONTR",
+    "alis": 3.5,
+    "hedef": 4.0,
+    "stop": 3.22,
+    "tarih": "2026-09-14",
+    "son": 3.5,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "TTKOM",
+    "alis": 59.85,
+    "hedef": 64.5,
+    "stop": 57.27,
+    "tarih": "2026-09-14",
+    "son": 59.85,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "CELHA",
+    "alis": 27.86,
+    "hedef": 31.87,
+    "stop": 25.63,
+    "tarih": "2026-09-14",
+    "son": 27.86,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "TUPRS",
+    "alis": 413.75,
+    "hedef": 453.99,
+    "stop": 391.39,
+    "tarih": "2026-09-14",
+    "son": 413.75,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "KONYA",
+    "alis": 4310,
+    "hedef": 4650.84,
+    "stop": 4120.65,
+    "tarih": "2026-09-14",
+    "son": 4310,
     "partial": false,
     "paper": false
   }
