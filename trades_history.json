@@ -404,5 +404,47 @@
     "hedef": 143.43,
     "partial": false,
     "paper": false
+  },
+  {
+    "hisse": "BLCYT",
+    "alis": 2.25,
+    "satis": 2.02,
+    "getiri_pct": -10.22,
+    "gun": 6,
+    "neden": "STOP",
+    "alis_tarih": "2026-09-08",
+    "satis_tarih": "2026-09-14",
+    "stop": 2.07,
+    "hedef": 2.57,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "PETKM",
+    "alis": 24.98,
+    "satis": 23.66,
+    "getiri_pct": -5.28,
+    "gun": 4,
+    "neden": "STOP",
+    "alis_tarih": "2026-09-10",
+    "satis_tarih": "2026-09-14",
+    "stop": 23.76,
+    "hedef": 27.18,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "EGEEN",
+    "alis": 6027.5,
+    "satis": 6522.5,
+    "getiri_pct": 8.21,
+    "gun": 3,
+    "neden": "HEDEF",
+    "alis_tarih": "2026-09-11",
+    "satis_tarih": "2026-09-14",
+    "stop": 6359.44,
+    "hedef": 6498.33,
+    "partial": true,
+    "paper": false
   }
 ]
