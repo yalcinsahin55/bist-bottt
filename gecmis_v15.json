@@ -1,21 +1,11 @@
 [
   {
-    "hisse": "CCOLA",
-    "alis": 79.45,
-    "hedef": 88.42,
-    "stop": 74.47,
-    "tarih": "2026-09-07",
-    "son": 76.5,
-    "partial": false,
-    "paper": false
-  },
-  {
     "hisse": "TUPRS",
     "alis": 413.75,
     "hedef": 453.99,
     "stop": 391.39,
     "tarih": "2026-09-14",
-    "son": 401.75,
+    "son": 412,
     "partial": false,
     "paper": false
   },
@@ -25,7 +15,7 @@
     "hedef": 376.58,
     "stop": 311.9,
     "tarih": "2026-09-14",
-    "son": 314.5,
+    "son": 320,
     "partial": false,
     "paper": false
   },
@@ -35,7 +25,7 @@
     "hedef": 76.12,
     "stop": 66.36,
     "tarih": "2026-09-15",
-    "son": 66.65,
+    "son": 66.85,
     "partial": false,
     "paper": false
   },
@@ -45,7 +35,7 @@
     "hedef": 2.72,
     "stop": 2.41,
     "tarih": "2026-09-15",
-    "son": 2.55,
+    "son": 2.45,
     "partial": false,
     "paper": false
   },
@@ -53,10 +43,10 @@
     "hisse": "TKFEN",
     "alis": 234.7,
     "hedef": 265.53,
-    "stop": 217.57,
+    "stop": 251.55,
     "tarih": "2026-09-16",
-    "son": 234.7,
-    "partial": false,
+    "son": 258,
+    "partial": true,
     "paper": false
   },
   {
@@ -65,7 +55,7 @@
     "hedef": 6736.59,
     "stop": 5699.67,
     "tarih": "2026-09-16",
-    "son": 6070,
+    "son": 5815,
     "partial": false,
     "paper": false
   },
@@ -85,7 +75,7 @@
     "hedef": 61.59,
     "stop": 53.28,
     "tarih": "2026-09-16",
-    "son": 56.25,
+    "son": 57.15,
     "partial": false,
     "paper": false
   },
@@ -95,7 +85,57 @@
     "hedef": 32.42,
     "stop": 26.07,
     "tarih": "2026-09-16",
-    "son": 28.34,
+    "son": 28,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "AHGAZ",
+    "alis": 40.98,
+    "hedef": 44.22,
+    "stop": 39.18,
+    "tarih": "2026-09-17",
+    "son": 40.98,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "PRKME",
+    "alis": 17.06,
+    "hedef": 19.15,
+    "stop": 15.9,
+    "tarih": "2026-09-17",
+    "son": 17.06,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "SKBNK",
+    "alis": 6.26,
+    "hedef": 7.16,
+    "stop": 5.76,
+    "tarih": "2026-09-17",
+    "son": 6.26,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "KONYA",
+    "alis": 3977.5,
+    "hedef": 4314.74,
+    "stop": 3790.14,
+    "tarih": "2026-09-17",
+    "son": 3977.5,
+    "partial": false,
+    "paper": false
+  },
+  {
+    "hisse": "GARAN",
+    "alis": 132.5,
+    "hedef": 144.15,
+    "stop": 126.03,
+    "tarih": "2026-09-17",
+    "son": 132.5,
     "partial": false,
     "paper": false
   }

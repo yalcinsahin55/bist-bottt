@@ -838,5 +838,19 @@
     "hedef": 36.67,
     "partial": false,
     "paper": false
+  },
+  {
+    "hisse": "CCOLA",
+    "alis": 79.45,
+    "satis": 80.4,
+    "getiri_pct": 1.2,
+    "gun": 10,
+    "neden": "SURE",
+    "alis_tarih": "2026-09-07",
+    "satis_tarih": "2026-09-17",
+    "stop": 74.47,
+    "hedef": 88.42,
+    "partial": false,
+    "paper": false
   }
 ]
